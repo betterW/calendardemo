@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.calendardemo.view.MyGridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/calendar_bg"
+    android:orientation="vertical"
+    app:itemMargin="2"
+    app:numColumns="7" >
+
+</com.example.calendardemo.view.MyGridLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ZXING -->
+    <color name="test_scan_result_view">#b0000000</color>
+    <color name="test_scan_viewfinder_mask">#60000000</color>
+    <color name="test_scan_possible_result_points">#c0ffff00</color>
+    <color name="test_scan_transparent">#00000000</color>
+    <!-- ZXING -->
+
+    <color name="common_000000">#000000</color>
+    <color name="common_FFFFFF">#FFFFFF</color>
+    <color name="common_C8C8C8">#C8C8C8</color>
+    <color name="common_F5F5F5">#F5F5F5</color>
+    <color name="common_b0b0b0">#b0b0b0</color>
+    <color name="common_C3C3C3">#C3C3C3</color>
+    <color name="common_40C4AF">#40C4AF</color>
+    <color name="common_37BCA7">#37BCA7</color>
+    <color name="common_CCCCCC">#CCCCCC</color>
+    <color name="common_CECECE">#CECECE</color>
+    <color name="common_E5E5E5">#E5E5E5</color>
+    <color name="common_C4C4C4">#C4C4C4</color>
+    <color name="common_898989">#898989</color>
+    <color name="common_4dc1ea">#4dc1ea</color>
+    <color name="common_999999">#999999</color>
+    <color name="common_FEE3E8">#FEE3E8</color>
+    <color name="common_007865">#007865</color>
+    <color name="common_00C8A8">#00C8A8</color>
+    <color name="common_085E4D">#085E4D</color>
+    <color name="common_52D1FB">#52D1FB</color>
+    <color name="common_7BA6FB">#7BA6FB</color>
+    <color name="common_00CAA2">#00CAA2</color>
+    <color name="common_C499FF">#C499FF</color>
+    <color name="common_BCD60F">#BCD60F</color>
+    <color name="common_FFCE0A">#FFCE0A</color>
+    <color name="common_FFB517">#FFB517</color>
+    <color name="common_BEBEBE">#BEBEBE</color>
+    <color name="common_DADADA">#DADADA</color>
+    <color name="common_52D2FA">#52D2FA</color>
+    <color name="common_89CB00">#89CB00</color>
+    <color name="common_34CFCC">#34CFCC</color>
+    <color name="common_D3D3D3">#D3D3D3</color>
+    <color name="common_21AE8C">#21AE8C</color>
+    <color name="biangeng">#56A300</color>
+    <color name="zhunbei">#9D7A00</color>
+    <color name="jishu">#8D8062</color>
+    <color name="list_item_selected">#f5f5f5</color>
+    <color name="list_item_pressed">#f5f5f5</color>
+    <color name="list_item_normal">#ffffff</color>
+    <color name="invalid_bg">#E5E5E5</color>
+    <color name="valid_bg">#EEEEEE</color>
+    <color name="calendar_bg">#D2D2D2</color>
+    <color name="skyblue">#CAEBE8</color>
+    <color name="red">#FF0000</color>
+ <!-- 红色 -->
+    <color name="white">#FFFFFF</color>
+ <!-- 红色 -->
+    <color name="lighter_gray">#ddd</color>
+    <color name="darker_gray">#aaa</color>
+    <color name="moment_line">#56C7B5</color>
+    <color name="transparency">#00000000</color>
+	<color name="calendar_switchbtn_normal">#3ECA8F</color>
+	<color name="calendar_switchbtn_pressed">#BDFCC9</color>
+	<color name="weekday">#FF8E76</color>
+	<color name="meeting">#EDD2BF</color>
+	<color name="tasking">#C9EAAF</color>
+</resources>

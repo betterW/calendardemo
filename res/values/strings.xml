@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">calendar</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- ZXING -->
+    <string name="scan_text_top">将二维码放入扫描框内</string>
+    <string name="scan_text_bottom">自动识别不安全链接，请放心扫描</string>
+    <!-- ZXING -->
+
+
+    <!-- 未建设页面提示 -->
+    <string name="string_test_no_qa">Q/A界面正在建设中!</string>
+    <string name="string_test_no_report">服务报告界面正在建设中!</string>
+    <string name="string_test_no_performance">我的绩效界面正在建设中!</string>
+    <string name="string_test_no_coin">金币商城界面正在建设中!</string>
+    <string name="string_test_no_mycase">我的CASE界面正在建设中!</string>
+
+    <!-- 登录 -->
+    <string name="string_login_login">登录</string>
+    <string name="string_login_please_input_mobilevipemail">请输入手机号/会员号/邮箱</string>
+    <string name="string_login_please_input_password">请输入密码</string>
+    <string name="string_login_visitorlogin">游客登录</string>
+    <string name="string_login_forgetpassword">忘记密码</string>
+
+    <!-- 首页 -->
+    <string name="string_home_home">首页</string>
+    <string name="string_home_date">日程</string>
+    <string name="string_home_me">我</string>
+    <string name="string_home_contact">联系我们</string>
+    <string name="string_authority_top">功能模块顶部TextView</string>
+    <string name="string_authority_bottom">功能模块底部TextView</string>
+
+    <!-- 权限 -->
+    <string name="string_competence_task">派任务</string>
+    <string name="string_competence_assess">待评估</string>
+    <string name="string_competence_alreadytask">已派任务</string>
+    <string name="string_competence_tools">小工具</string>
+
+    <!-- 游客登陆 -->
+    <string name="string_visitorlogin_title">游客登录</string>
+    <string name="string_visitorlogin_complete">完成</string>
+    <string name="string_visitorlogin_phone">请输入手机号</string>
+    <string name="string_visitorlogin_code">请输入验证码</string>
+    <string name="string_visitorlogin_username">姓名</string>
+    <string name="string_visitorlogin_company">单位名称</string>
+    <string name="string_visitorlogin_password">请输入密码</string>
+    <string name="string_visitorlogin_confirm_password">请确认密码</string>
+    <string name="string_visitorlogin_get_code">获取验证码</string>
+    <string name="string_visitorlogin_text_login">登陆</string>
+    <string name="string_visitorlogin_text_account_number">已有账号？</string>
+
+    <!-- 新建安排 -->
+    <string name="string_arrangment_conference">会议</string>
+    <string name="string_arrangment_planwork">计划工作</string>
+    <string name="string_arrangment_description">安排描述</string>
+    <string name="string_arrangment_time">起止时间</string>
+    <string name="string_arrangment_title">新建安排</string>
+    <string name="string_arrangment_join_man">参与人</string>
+
+    <!-- 小工具 -->
+    <string name="string_tool_scanning">资产扫描录入</string>
+    <string name="string_tool_life_cycle">查询产品生命周期</string>
+    <string name="string_tool_query_SN">查询SN信息</string>
+    <string name="string_tool_assetsscan">资产扫描录入</string>
+    <string name="string_tool_PID">PID号</string>
+    <string name="string_tool_SN">SN号</string>
+    <string name="string_tool_description">资产是指由企业过去经营交易或各事项形成的，由企业拥有或控制的，预期会给企业带来经济利益的资源。</string>
+
+    <!-- QA -->
+    <string name="string_qa_all">全部</string>
+    <string name="string_qa_question">我的提问</string>
+    <string name="string_qa_reply">我的回复</string>
+    <string name="string_qa_attention">我的关注</string>
+    <string name="string_qa_think_qattention">我要提问</string>
+    <string name="string_qa_resolved">已解决</string>
+    <string name="string_qa_submit">发送</string>
+
+    <!-- case -->
+    <string name="string_case_my">我的CASE</string>
+    <string name="string_case_query">查询CASE</string>
+    <string name="string_case_create">创建CASE</string>
+    <string name="string_case_number">CASE号</string>
+    <string name="string_case_state">状态</string>
+    <string name="string_case_SN">SN</string>
+    <string name="string_case_applicants">申请者</string>
+    <string name="string_case_find">查询</string>
+    <string name="string_case_submit">提交</string>
+    <string name="string_case_query_value">查询结果</string>
+    <string name="string_case_basic_information">基本信息</string>
+    <string name="string_case_query_demand">查看需求>></string>
+    <string name="string_case_query_title">标题</string>
+    <string name="string_case_query_change">变更方案准备</string>
+    <string name="string_case_stateing">当前状态</string>
+    <string name="string_case_SE_PENDING">SE-PENDING</string>
+    <string name="string_case_engineer">负责工程师</string>
+    <string name="string_case_journal">最新日志</string>
+    <string name="string_case_work_journal">最新日志</string>
+    <string name="string_case_open_journal">展开所有日志</string>
+    <string name="string_case_add_Case_Note">添加Case_Note</string>
+    <string name="string_case_treatment_advice">处理意见</string>
+
+    <!-- 评价 -->
+    <string name="string_appraisal_title">标题</string>
+    <string name="string_appraisal_title_valuse">OA系统项目创建</string>
+    <string name="string_appraisal_assignment">分派人</string>
+    <string name="string_appraisal_service">服务类别</string>
+    <string name="string_appraisal_service_subkey">服务子项</string>
+    <string name="string_appraisal_post_time">请求时间</string>
+    <string name="string_appraisal_finish_time">完成时间</string>
+    <string name="string_appraisal_satisfaction">满意度评价</string>
+    <string name="string_appraisal_addressee">收件人</string>
+    <string name="string_appraisal_phone">电话</string>
+    <string name="string_appraisal_submit">确定</string>
+    <string name="string_appraisal_other_addressee">其他收件人</string>
+    <string name="string_appraisal_create">创建评价</string>
+    <string name="string_appraisal_sequence_one">1、</string>
+    <string name="string_appraisal_sequence_two">2、</string>
+    <string name="string_appraisal_sequence_one_description">对于客户提出的请求是否能够\n    根据不同重要性做出及时响应？</string>
+    <string name="string_appraisal_sequence_two_description">技术方案是否存在明显技术性\n   问题？</string>
+    <string name="string_appraisal_finish">3。完成时间是否及时？</string>
+    <string name="string_appraisal_one_hour">5星：1小时内完成客户需求</string>
+    <string name="string_appraisal_one_day">4星：1天内完成客户需求</string>
+    <string name="string_appraisal_one_week">3星：1周内完成客户需求</string>
+    <string name="string_appraisal_two_week">2星：2周内完成客户需求</string>
+    <string name="string_appraisal_one_month">1星：1月内完成客户需求</string>
+
+    <!-- 我要派任务 -->
+    <string name="string_sendmission_description">任务描述</string>
+    <string name="string_sendmission_expectation_time">期望完成时间</string>
+
+    <!-- 忘记密码 -->
+    <string name="string_forgetpass_phone">请输入手机号</string>
+    <string name="string_forgetpass_title">忘记密码</string>
+    <string name="string_forgetpass_next">下一步</string>
+    <string name="string_forgetpass_newpass">请输入新密码</string>
+    <string name="string_forgetpass_copypass">请确认新密码</string>
+    <string name="string_forgetpass_finish">完成</string>
+    <string name="string_forgetpass_inconsistent">密码不一致</string>
+    <string name="string_forgetpass_sms_code">秒后重发</string>
+    <string name="string_forgetpass_smsSend_again">重新获取</string>
+
+    <!-- 首页 -->
+    <string name="string_home_title">首页</string>
+    <string name="string_homefragment_currnews_test">最新消息动态</string>
+
+    <!-- 小工具 -->
+    <!-- 小工具-查询sn信息 -->
+    <string name="string_next">下一个</string>
+    <string name="string_all_complete">全部完成</string>
+    <string name="string_forward">转发</string>
+
+    <!-- 我要提问 -->
+    <string name="string_iwantask_submit">发布</string>
+    <string name="string_iwantask_deadline">截止日期</string>
+    <string name="string_iwantask_deadline_test">2014-01-15</string>
+    <string name="string_iwantask_awardmoney">悬赏金币</string>
+    <string name="string_iwantask_awardmoney_test">10</string>
+
+    <!-- 我要派任务 -->
+    <string name="string_isendmission_submit">确定</string>
+    <string name="string_isendmission_describe">任务描述</string>
+    <string name="string_isendmission_expectedperformancetime">期望完成时间</string>
+    <string name="string_isendmission_time_2hor">两小时</string>
+    <string name="string_isendmission_time_today">今天</string>
+    <string name="string_isendmission_time_tomorrow">明天</string>
+    <string name="string_isendmission_time_thedayaftertomorrow">后天</string>
+    <string name="string_isendmission_time_thisweek">本周</string>
+    <string name="string_isendmission_time_detail_test">2014.01.15   16:00</string>
+    <string name="string_isendmission_sendto_standard">分派给</string>
+    <string name="string_isendmission_sendto_whostandard">张三</string>
+
+    <!-- 个人中心 -->
+    <string name="string_mycenter_yonghufankui">用户反馈</string>
+    <string name="string_mycenter_wodepingjia">我的评价</string>
+    <string name="string_mycenter_shezhi">设置</string>
+    <string name="string_mycenter_jinbixiangqing">金币详情</string>
+    <string name="string_mycenter_wodexiaoxi">我的消息</string>
+    <string name="string_mycenter_xiugaimima">修改密码</string>
+    <string name="string_mycenter_tuichu">退出</string>
+
+    <!-- 已派任务 -->
+    <string name="string_searchtask_title">搜索任务单</string>
+    <string name="string_searchtask_dealwith">我处理的</string>
+    <string name="string_searchtask_nocheck">不选</string>
+    <string name="string_searchtask_all">全部</string>
+    <string name="string_searchtask_missedsingle">未接单</string>
+    <string name="string_searchtask_asking">进行中</string>
+    <string name="string_searchtask_approvaling">审批中</string>
+    <string name="string_searchtask_finish">已完成</string>
+    <string name="string_searchtask_mepost">我提交的</string>
+    <string name="string_searchtask_submittime">请求时间</string>
+    <string name="string_searchtask_theday">当天</string>
+    <string name="string_searchtask_theweek">本周</string>
+    <string name="string_searchtask_lastweek">上周</string>
+    <string name="string_searchtask_themonth">本月</string>
+    <string name="string_searchtask_state">类型</string>
+    <string name="string_searchtask_assignment">分派给</string>
+    <string name="string_searchtask_type">任务类型</string>
+    <string name="string_searchtask_taskstate">任务状态</string>
+    <string name="string_searchtask_query">查询</string>
+    <string name="string_taskdetail_title">任务详情</string>
+    <string name="string_taskdetail_classification">任务分类</string>
+    <string name="string_taskdetail_son">任务子项</string>
+    <string name="string_taskdetail_taskTitle">标题</string>
+    <string name="string_taskdetail_expectation_time">期望完成时间</string>
+    <string name="string_taskdetail_dispatch">分派人</string>
+    <string name="string_taskdetail_claimant">请求人</string>
+    <string name="string_taskdetail_help_people">协助人</string>
+    <string name="string_taskdetail_keyword">关键字</string>
+    <string name="string_person_keyword">请输入关键字</string>
+
+    <!-- my tasks -->
+    <string name="my_tasks_label_change_danger_evaluate">变更风险评估</string>
+    <string name="my_tasks_business_analyse">业务影响分析</string>
+    <string name="my_tasks_danger_grade">风险评分</string>
+    <string name="my_tasks_app_effect_analyse">应用影响分析</string>
+    <string name="my_tasks_user_effect_analyse">用户影响分析</string>
+    <string name="my_tasks_change_manager_danger">变更管理风险</string>
+    <string name="my_tasks_change_range_require">变更范围和要求</string>
+    <string name="my_tasks_complexity_downtime">复杂性与down机时间</string>
+    <string name="my_tasks_effect_system_num">影响的系统数量</string>
+    <string name="my_tasks_change_operate_difficulty">变更实施操作难度</string>
+    <string name="my_tasks_vali_reback">验证与回退</string>
+    <string name="my_tasks_assets_select">资产选择</string>
+    <string name="my_tasks_select_assets">选择资产</string>
+    <string name="my_tasks_search">搜索</string>
+    <string name="my_tasks_sort">任务分派</string>
+    <string name="my_tasks_commit">提交</string>
+    <string name="my_tasks_manager_approval">管理审批</string>
+    <string name="my_tasks_high_manager_approval">高级管理审批</string>
+    <string name="my_tasks_approval_time">审批时间</string>
+    <string name="my_tasks_approval_person">审批人</string>
+    <string name="my_tasks_commit_persion">提交人</string>
+    <string name="my_tasks_reback">退回</string>
+    <string name="my_tasks_pass">通过</string>
+    <string name="my_tasks_impl_result_desc">实施结果描述</string>
+    <string name="my_tasks_plan_set">计划配置</string>
+    <string name="my_tasks_set_desc">配置描述</string>
+    <string name="my_tasks_result">结果</string>
+    <string name="my_tasks_success">成功</string>
+    <string name="my_tasks_truly_finished_time">实际完成时间</string>
+    <string name="my_tasks_technology_approval">技术审批</string>
+    <string name="my_tasks_high_technology_approval">高级技术审批</string>
+    <string name="my_tasks_safeguard_desc">保障工描述</string>
+    <string name="my_tasks_desc">描述</string>
+    <string name="my_tasks_reback_reason">原因</string>
+    <string name="my_tasks_cancel">取消</string>
+    <string name="my_tasks_cancel_hang_up">取消挂起</string>
+    <string name="my_tasks_sure">确定</string>
+    <string name="my_tasks_hang_up">挂起</string>
+    <string name="my_tasks_del">删除</string>
+    <string name="my_tasks_turn_to_send">转派</string>
+    <string name="my_tasks_create_eval">+创建评价</string>
+    <string name="log_detail_lable1">变更影响评估</string>
+    <string name="log_detail_lable2">&#160;&#160;待审批</string>
+    <string name="log_detail_new">新建日志</string>
+    <string name="log_detail_edit">编辑</string>
+    <string name="log_detail_return">退回</string>
+    <string name="log_detail_pass">通过</string>
+    <string name="log_detail_del">删除</string>
+    <string name="log_detail_actual_time">实际工作时间</string>
+    <string name="log_detail_handle_desc">处理描述</string>
+    <string name="log_detail_worktime1">工作时间1</string>
+    <string name="log_detail_worktime2">工作时间2</string>
+    <string name="log_detail_unit">小时</string>
+    <string name="log_detail_save">保存</string>
+    <string name="log_passed">&#160;&#160;已通过</string>
+    <string name="log_returned">&#160;&#160;被退回</string>
+    <string name="log_newtaskinfo">任务信息</string>
+    <string name="log_newtasksort">分派给</string>
+    <string name="footer_load_more">加载更过....</string>
+    <!-- 联系我们 -->
+    <string name="tcl_contactus_400phone">华讯400电话</string>
+    <string name="tcl_contactus_dial400phone">拨打客服电话</string>
+    <string name="tcl_contactus_othercontact">其他联系方式</string>
+    <string name="tcl_contactus_tacemail">TAC邮箱</string>
+
+    <!-- calendar -->
+    <string name="calendar_sunday">日</string>
+    <string name="calendar_monday">一</string>
+    <string name="calendar_tuesday">二</string>
+    <string name="calendar_wednesday">三</string>
+    <string name="calendar_thursday">四</string>
+    <string name="calendar_friday">五</string>
+    <string name="calendar_saturday">六</string>
+    
+    <string name="calendar_year">年</string>
+    <string name="calendar_month">月</string>
+    <string name="calendar_day">日</string>
+    <string name="calendar_week">周</string>
+
+</resources>
